@@ -29,7 +29,7 @@ void printPascal(int n){
 
 
 int main(){
-		
+	
 	cout<<fact(5)<<endl;
 	cout<<nCr(5,2)<<endl;
 	printPascal(7);
